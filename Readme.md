@@ -1,4 +1,4 @@
-# Particle Finding Algorithm
+# Particle Finding
 This is the documentation for a particle finding algorithm. It is based on a
 the convolution of the image with particles to be detected and a template of
 a particle to be detected (mask). For now, this algorithm only works with
